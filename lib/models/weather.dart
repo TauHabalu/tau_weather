@@ -1,7 +1,6 @@
 import 'package:equatable/equatable.dart';
 
 enum WeatherCondition {
-  // https://www.metaweather.com/api/   (taking icons)
 
   snow,
   sleet,
